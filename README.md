@@ -1,0 +1,1 @@
+# shell-delete-ecs-in-all-regions
